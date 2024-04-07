@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="SchoolNetwork.app/SchoolNetwork">
+      <BCSymbolMapName>SchoolNetwork.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>SchoolNetwork.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Volumes/T7 SSD/Projects/SchoolNetwork/obj/Debug/net8.0-ios/iossimulator-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>SchoolNetwork.app.dSYM</DSymName>
+      <SourceProjectPath>/Volumes/T7 SSD/Projects/SchoolNetwork</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
